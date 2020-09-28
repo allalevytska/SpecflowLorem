@@ -17,4 +17,4 @@ Scenario: Generate Lorem Ipsum amount of types
 Scenario: Generate Lorem Ipsum
 When I change language to Українська
 And click "Згенерувати Lorem Ipsum" 10 times
-Then the avarage number of paragraphs containing the word “lorem” is more than 1 (>1)
+Then the avarage number of paragraphs containing the word “lorem” is more than 3

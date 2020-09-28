@@ -177,7 +177,7 @@ testRunner.When("I change language to Українська", ((string)(null)), (
 testRunner.And("click \"Згенерувати Lorem Ipsum\" 10 times", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 20
-testRunner.Then("the avarage number of paragraphs containing the word “lorem” is more than 1 (>1)", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+testRunner.Then("the avarage number of paragraphs containing the word “lorem” is more than 3", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
